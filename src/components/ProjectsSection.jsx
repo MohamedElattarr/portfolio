@@ -14,7 +14,7 @@ const projects = [
         id: 2 ,
         title: "Users-dashboard",
         description: "Users Dasboard with React and tailwindcss" ,
-        image: "public/Projects/image copy.png",
+        image: "Projects/image copy.png",
         tags: ["React", "TailwindCss"],
         demoUrl: "https://users-dashboard-six.vercel.app/",
         githubUrl: "https://github.com/MohamedElattarr/users-dashboard",
