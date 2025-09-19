@@ -12,12 +12,12 @@ const projects = [
     },
     {
         id: 2 ,
-        title: "KHYOOT E-commerce Store",
-        description: "A E-commerce store app using React and tailwind css" ,
-        image: "Projects/image.png",
+        title: "Users-dashboard",
+        description: "Users Dasboard with React and tailwindcss" ,
+        image: "public/Projects/image copy.png",
         tags: ["React", "TailwindCss"],
-        demoUrl: "#",
-        githubUrl: "#",
+        demoUrl: "https://users-dashboard-six.vercel.app/",
+        githubUrl: "https://github.com/MohamedElattarr/users-dashboard",
     },
 ];
 
