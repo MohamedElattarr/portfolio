@@ -19,6 +19,15 @@ const projects = [
         demoUrl: "https://users-dashboard-six.vercel.app/",
         githubUrl: "https://github.com/MohamedElattarr/users-dashboard",
     },
+    {
+        id: 3 ,
+        title: "Shop Style",
+        description: "A E-commerce store app using React and tailwind cs" ,
+        image: "Projects/Screenshot 2025-11-12 022436.png",
+        tags: ["React", "TailwindCss"],
+        demoUrl: "https://shop-style.vercel.app/",
+        githubUrl: "https://github.com/MohamedElattarr/Shop-Style",
+    },
 ];
 
 export const ProjectsSection = () => {

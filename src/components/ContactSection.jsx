@@ -1,4 +1,4 @@
-import { Facebook, Instagram, Linkedin, LocateIcon, Mail, MapPin, Phone, Send } from "lucide-react";
+import { Facebook, Instagram, LetterTextIcon, Linkedin, LocateIcon, Mail, MapPin, Phone, Send } from "lucide-react";
 import { cn } from "../lib/utlis";
 
 export const ContactSection = () => {
@@ -77,7 +77,7 @@ export const ContactSection = () => {
                         <div className="pt-8">
                             <h4 className="font-medium mb-4">Connect With Me </h4>
                             <div className="flex space-x-4 justify-center" >
-                                <a href="#" target="_blank">
+                                <a href="https://www.linkedin.com/in/mohamed-elattar-901b492a9/" target="_blank">
                                     <Linkedin />
                                 </a>
                                 <a href="#" target="_blank">
@@ -86,8 +86,8 @@ export const ContactSection = () => {
                                 <a href="#" target="_blank">
                                     <Facebook />
                                 </a>
-                                <a href="#" target="_blank">
-                                    <Linkedin />
+                                <a href="https://www.fiverr.com/e1_elattar_1?public_mode=true" target="_blank">
+                                    <Facebook />
                                 </a>
                             </div>
                         </div>
